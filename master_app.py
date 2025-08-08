@@ -1,6 +1,3 @@
-# === Master App File ===
-# This file imports all modules and runs the complete NSE Options Analyzer
-
 import streamlit as st
 
 # Import all modules
